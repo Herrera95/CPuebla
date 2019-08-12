@@ -1,7 +1,7 @@
 [
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
-    "updateDate": "2019-08-08T20:00:00.0Z",
+    "updateDate": "2019-08-11T19:00:00.0Z",
     "titleText": "10 de Agosto. Demostración de talleres de arte",
     "mainText": "Este sábado 10 de agosto, David Cordero impartira una
     demostración de talleres crecer con arte en el Centro de Desarrollo}
@@ -11,7 +11,7 @@
   },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
-    "updateDate": "2019-08-08T20:30:00.0Z",
+    "updateDate": "2019-08-11T18:30:00.0Z",
     "titleText": "11 de Agosto. Rock Alternativo",
     "mainText": "Si quieres rockear al domingo 11 de agosto, te recomiendo ir
     al zócalo de la ciudad, ubicado en 2 sur y 3 poniente, ya que podras
@@ -20,7 +20,7 @@
   },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
-    "updateDate": "2019-08-08T21:00:00.0Z",
+    "updateDate": "2019-08-11T18:00:00.0Z",
     "titleText": "16 de Agosto. Presentación de danza",
     "mainText": "El centro de danza La Colmena celebra su cuarto aniversario
     y lo hace con una presentación de danza, la cita es el viernes 16 de agosto
