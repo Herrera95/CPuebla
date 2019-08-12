@@ -1,7 +1,7 @@
 Content-Type: application/json
 [
   {
-    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
+    "uid": "a28d9847-5ef3-468d-8e4b-2ec294858776",
     "updateDate": "2019-08-11T19:00:00.0Z",
     "titleText": "10 de Agosto. Demostración de talleres de arte",
     "mainText": "Este sábado 10 de agosto, David Cordero impartira una
@@ -11,7 +11,7 @@ Content-Type: application/json
     "redirectionUrl": "https://www.amazon.com"
   },
   {
-    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
+    "uid": "d2cbc3a4-2421-4fb5-9f7d-ea0cf2578143",
     "updateDate": "2019-08-11T18:30:00.0Z",
     "titleText": "11 de Agosto. Rock Alternativo",
     "mainText": "Si quieres rockear al domingo 11 de agosto, te recomiendo ir
@@ -20,7 +20,7 @@ Content-Type: application/json
     "redirectionUrl": "https://www.amazon.com"
   },
   {
-    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
+    "uid": "a32d97ea-3636-4205-b9f3-871eb19e4266",
     "updateDate": "2019-08-11T18:00:00.0Z",
     "titleText": "16 de Agosto. Presentación de danza",
     "mainText": "El centro de danza La Colmena celebra su cuarto aniversario
